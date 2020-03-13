@@ -1,10 +1,19 @@
 # Cosa è questo sito?
 Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo Scientifico "G. Battaglini", una sorta di compendio di risorse.
 
-## Quick links Webex <img alt='Webex' width='30 px' src='https://lh3.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX'>
 
+## Quick links Webex <img alt='Webex' width='25 px' src='https://lh3.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX'>
 <a href='https://battaglinicv19.webex.com/meet/macciu2'><img alt='Condorelli' width='100 px' src='/Sito_Compiti_5F/resources/condorelli.png'>
 <a href='https://battaglinicv19.webex.com/join/bellonidaniela2016'><img alt='Belloni' width='100 px' src='/Sito_Compiti_5F/resources/belloni.png'>
-<a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/></a>
+<a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
+<a href=''><img alt='Viola' width='100 px' src='/Sito_Compiti_5F/resources/viola.png'/></a>
+
+## Quick links classi virtuali <img alt='Classrom' width='25 px' src='https://lh3.googleusercontent.com/Qvc6rWiGG_a6LNQ7Yx5vMmve_5ku8TG7z4vmWG7VBkbcOQfOSE2BS7eBcD1NUOWTsbs9A_Vh-mJpKtsGtG_0f7sIGFy5LwhdOLRg4w=h120'>
+
+<a href='https://new.edmodo.com/groups/5f-mat-e-fi-liceobattaglini-20192020-31274782'><img alt='Lo Savio' width='100 px' src='https://api.edmodo.com/users/144023444/avatar?t=1584136740&type=large&u=78cx7drk8di3sbz5afdqqyqr6'>
+<a href='https://classroom.google.com/u/0/c/NjI1MTE4MjI4Nzla'><img alt='Belloni' width='100 px' src='/Sito_Compiti_5F/resources/belloni.png'>
+<a href='https://padlet.com/giaegiu2002/is1m9q9wb601'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
+<a href='https://classroom.google.com/u/0/c/NjI1MTE4MjI4Nzla'><img alt='Viola' width='100 px' src='/Sito_Compiti_5F/resources/viola.png'/>WIP</a>
+
 
 ## [Archivio didattico](archivio)
