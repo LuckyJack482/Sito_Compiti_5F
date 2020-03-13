@@ -6,8 +6,8 @@
 | <font color="red">Italiano</font>  | Esercizi T2 (Pascoli) - X Agosto        | LuckyJack482      | [T2 X Agosto.docx](/files/T2 X Agosto.docx)|
 | <font color="green">Scienze</font>  |    La biologia dei virus     | Rochira      | [la-biologia-dei-virus.pdf](/files/la-biologia-dei-virus.pdf)|
 | <font color="green">Scienze</font>  | Biologia dei virus (pttx)        | Rochira      | [Biologia-dei-virus_lezion_ppoint.pptx](/files/Biologia-dei-virus_lezion_ppoint.pptx)|
-| <font color="green">Scienze</font>  |     Carboidrati    | Rochira      | [carboidrati_.ptt](/files/carboidrati_.ptt)|
-| <font color="green">Scienze</font>  |     Amminoacidi    | Rochira      | [amminoacidi.ptt](/files/amminoacidi.ptt)|
+| <font color="green">Scienze</font>  |     Carboidrati    | Rochira      | [carboidrati_.ppt](/files/carboidrati_.ppt)|
+| <font color="green">Scienze</font>  |     Amminoacidi    | Rochira      | [amminoacidi.ppt](/files/amminoacidi.ppt)|
 
 
 [File pdf aquil](/files/aquil.pdf)
