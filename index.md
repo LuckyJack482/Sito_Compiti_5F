@@ -9,4 +9,4 @@ Questo sito è un sito dedicato a poche persone fidate, una sorta di compendio d
 
 
 
-<img alt='Condorelli' width='100 px' src='/Sito_Compiti_5F/resources/condorelli.png'></a><a href='https://battaglinicv19.webex.com/join/bellonidaniela2016'><img alt='Belloni' width='100 px' src='/Sito_Compiti_5F/resources/belloni.png'></a> <a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/></a>
+<img alt='Condorelli' width='100 px' src='/Sito_Compiti_5F/resources/condorelli.png'><a href='https://battaglinicv19.webex.com/join/bellonidaniela2016'><img alt='Belloni' width='100 px' src='/Sito_Compiti_5F/resources/belloni.png'></a> <a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
