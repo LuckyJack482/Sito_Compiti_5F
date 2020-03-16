@@ -3,7 +3,7 @@
 | Materia      | Titolo | Autore     | File |
 | :---        |    :----:   |          :----: |  ---:|
 | <font color="blue">Matematica</font>      | Compiti per il 14/03/20       | LuckyJack482|<a href='/Sito_Compiti_5F/files/0019_200313204755_001.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'/>|
-| <font color="red">Italiano</font>  | Esercizi T2 (Pascoli) - X Agosto        |<a href='/Sito_Compiti_5F/files/T2 X Agosto.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
+| <font color="red">Italiano</font>  | Esercizi T2 (Pascoli) - X Agosto|LuckyJack482| <a href='/Sito_Compiti_5F/files/T2 X Agosto.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
 | <font color="green">Scienze</font>  |    La biologia dei virus     | Rochira      |<a href='/Sito_Compiti_5F/files/la-biologia-dei-virus.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'/>|
 | <font color="green">Scienze</font>  | Biologia dei virus        | Rochira      |<a href='/Sito_Compiti_5F/files/Biologia-dei-virus_lezion_ppoint.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="green">Scienze</font>  |     Carboidrati    | Rochira      |<a href='/Sito_Compiti_5F/files/carboidrati_.ppt'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
