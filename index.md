@@ -7,8 +7,7 @@ Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo
 <a href='https://battaglinicv19.webex.com/join/bellonidaniela2016'><img alt='Belloni' width='100 px' src='/Sito_Compiti_5F/resources/belloni.png'>
 <a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
 <a href=''><img alt='Viola' width='100 px' src='/Sito_Compiti_5F/resources/viola.png'/>
-<a href='https://battaglinicv19.webex.com/meet/maria.rochira'><img alt='Rochira' width='100 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
-<a href=''><img alt='Viola' width='100 px' src='/Sito_Compiti_5F/resources/viola.png'/></a>
+<a href='https://battaglinicv19.webex.com/meet/maria.rochira'><img alt='Rochira' width='100 px' src='/Sito_Compiti_5F/resources/rochira.png'/></a>
 
 ## Quick links classi virtuali <img alt='Classrom' width='25 px' src='https://lh3.googleusercontent.com/Qvc6rWiGG_a6LNQ7Yx5vMmve_5ku8TG7z4vmWG7VBkbcOQfOSE2BS7eBcD1NUOWTsbs9A_Vh-mJpKtsGtG_0f7sIGFy5LwhdOLRg4w=h120'>
 
