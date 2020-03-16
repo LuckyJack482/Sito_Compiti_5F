@@ -7,8 +7,10 @@
 | <font color="green">Scienze</font>  |    La biologia dei virus     | Rochira      | [la-biologia-dei-virus.pdf](/files/la-biologia-dei-virus.pdf)|
 | <font color="green">Scienze</font>  | Biologia dei virus (pttx)        | Rochira      | [Biologia-dei-virus_lezion_ppoint.pptx](/files/Biologia-dei-virus_lezion_ppoint.pptx)|
 | <font color="green">Scienze</font>  |     Carboidrati    | Rochira      | [carboidrati_.ppt](/files/carboidrati_.ppt)|
-| <font color="green">Scienze</font>  |     Amminoacidi    | Rochira      | <a href='/Sito_Compiti_5F/files/amminoacidi.ppt'><img alt='Youtube' width='40 px' src='https://cdn.icon-icons.com/icons2/195/PNG/256/PowerPoint_2013_23479.png'/></a> |
-| <font color="red">Latino</font> |T6 (Quintiliano) - Il maestro ideale|Condorelli|[compiti 5 f.docx](/files/compiti 5 f.docx)|
+| <font color="green">Scienze</font>  |     Amminoacidi    | Rochira      | <a href='/Sito_Compiti_5F/files/amminoacidi.ppt'>|
+<img alt='Youtube' width='40 px' src=''/>
+| <font color="red">Latino</font> |T6 (Quintiliano) - Il maestro ideale|Condorelli|<a href='/Sito_Compiti_5F/files/compiti 5 f.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
 | <font color="red">Italiano</font> |Lez. 13/03 - Pascoli|Condorelli|<a href='https://www.youtube.com/watch?v=YOj0jgvfPtA'><img alt='Youtube' width='40 px' src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202041logosocialsocialmediavideoyoutube-115647_115654.png'/></a>|
+
 
 [File pdf aquil](/files/aquil.pdf)
