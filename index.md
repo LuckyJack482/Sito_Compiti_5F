@@ -17,4 +17,5 @@ Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo
 <a href='https://classroom.google.com/u/0/c/NjI1MTE4MjI4Nzla'><img alt='Viola' width='100 px' src='/Sito_Compiti_5F/resources/viola.png'/>WIP</a>
 
 
-## *[Archivio didattico](archivio)*
+## **[Archivio didattico](archivio)**
+Hey, vedi che, se non te ne fossi accorto, puoi cliccare sul titolo... è un link. Umile, ma è pur sempre un collegamento.
