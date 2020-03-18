@@ -13,6 +13,8 @@
 | <font color="red">Italiano</font> |Lez. 12/03 - Pascoli|Condorelli<br>16/03|<a href='https://www.youtube.com/watch?v=YOj0jgvfPtA'><img alt='Youtube' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'/></a>|
 | <font color="red">Latino</font> |Int. 16/03 - Latino|Condorelli<br>16/03|<a href='https://www.youtube.com/watch?v=Uvj54f6Q7gk'><img alt='Youtube' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'/></a>|
 | <font color="purple">Arte</font> |L'arte al tempo del coronavirus|Ciaccia<br>16/03|<a href='/Sito_Compiti_5F/files/larte_al_tempo_del_coronavirus.mp4'><img alt='Video' width='40 px' src='/Sito_Compiti_5F/resources/vlc.png'/></a>|
+| <font color="red">Latino</font> |Plinio il Vecchio|Condorelli|<a href='/Sito_Compiti_5F/files/plinio il vecchio.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
+| <font color="orange">Filosofia</font> |Shopenhauer|Belloni|<a href='/Sito_Compiti_5F/files/'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 
 
 [File pdf aquil](/files/aquil.pdf)
