@@ -18,5 +18,7 @@
 | <font color="orange">Filosofia</font> |Shopenhauer|Belloni<br>1?/03/20|<a href='/Sito_Compiti_5F/files/Shopenhauer_01.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="red">Latino</font> |Persio|Condorelli<br>??/03/20|<a href='/Sito_Compiti_5F/files/978883953213_pers1.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'>|
 | <font color="purple">Inglese</font> |Lez.: The painter's studio|Viola<br>19/03/20|<a href='https://www.youtube.com/watch?v=lckoxHQumn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
-| <font color="red">Italiano</font> |Int. Carone Pompignia|Condorelli<br>18/03/20|<a href='https://www.youtube.com/watch?v=pepTt9G3juk'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
-| <font color="red">Italiano</font> |Lez. Pascoli|Condorelli<br>13/03/20|<a href='https://youtu.be/pepTt9G3juk'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+| <font color="red">Italiano</font> |Int.: Carone Pompignia|Condorelli<br>18/03/20|<a href='https://www.youtube.com/watch?v=pepTt9G3juk'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+| <font color="red">Italiano</font> |Lez.: Pascoli|Condorelli<br>13/03/20|<a href='https://youtu.be/pepTt9G3juk'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+| <font color="red">Italiano</font> |Documentario Pascoli|Condorelli<br>17/03/20|<a href='https://www.raiplay.it/video/2016/02/I-grandi-della-letteratura---Giovanni-Pascoli-21d741fa-2e04-4688-80d5-d7aeb06ea363.html'><img alt='vlc' width='40 px' src='/Sito_Compiti_5F/resources/vlc.png'>|
+| <font color="red">Italiano</font> |Documentario D'Annunzio|Condorelli<br>17/03/20|<a href='https://www.raiplay.it/video/2017/10/I-GRANDI-DELLA-LETTERATURA-ITALIANA-40f7a614-7ea4-4c79-8b72-d8930154b4eb.html'><img alt='vlc' width='40 px' src='/Sito_Compiti_5F/resources/vlc.png'>|
