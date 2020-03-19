@@ -1,4 +1,4 @@
 # Disclaimer sull'Archivio didattico
 L'archivio didattico è ancora Work-in-progress. Sarà diviso diversamente. Per ora sta così. Il suo principio di esistenza è nel permettere in poco tempo di avere accesso a una pagina leggera con i link per tutto il materiale recuperabile. Questa semplicità viene barattata con la mancanza di funzionalità, come l'impossibilità di filtrare in alcun modo i contenuti, se non attraverso la ricerca testuale attraverso il proprio browser. Tuttavia rimango convinto sulla scelta di questo metodo affinché si possano evitare soluzioni cloud come dropbox, Google drive, MEGA, OneDrive... dove potrebbero essere necessarie password per accedere o applicazioni specifiche. Siccome, con il progressivo aumentare della quantità di contenuti all'interno dell'archivio, il tutto sta iniziando a diventare realmente grande, sto pensando a come organizzare la divisione dei contenuti in modo che sia semplice e intuitivo senza barattare la leggerezza della pagina, la struttura del sito e la comodità dello stesso.
 
-## :kissing_heart: @LuckyJack482
+## 😘 @LuckyJack482
