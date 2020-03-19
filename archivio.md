@@ -5,6 +5,7 @@
 | :---        |    :----:   |          :----: |  ---:|
 | <font color="blue">Matematica</font>      | Compiti per il 14/03       | LuckyJack482<br>13/03|<a href='/Sito_Compiti_5F/files/0019_200313204755_001.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'/>|
 | <font color="red">Italiano</font>  | Esercizi T2 (Pascoli) - X Agosto|LuckyJack482<br>1?/03| <a href='/Sito_Compiti_5F/files/T2 X Agosto.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
+| <font color="red">Italiano</font>  |Acquilone  (Pascoli)|Condorelli<br>1?/03| <a href='/Sito_Compiti_5F/files/aquil.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'/>|
 | <font color="green">Scienze</font>  |    La biologia dei virus     | Rochira<br>1?/03|<a href='/Sito_Compiti_5F/files/la-biologia-dei-virus.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'/>|
 | <font color="green">Scienze</font>  | Biologia dei virus        | Rochira<br>1?/03|<a href='/Sito_Compiti_5F/files/Biologia-dei-virus_lezion_ppoint.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="green">Scienze</font>  |     Carboidrati    | Rochira<br>1?/03|<a href='/Sito_Compiti_5F/files/carboidrati_.ppt'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
@@ -16,7 +17,7 @@
 | <font color="red">Latino</font> |Plinio il Vecchio|Condorelli|<a href='/Sito_Compiti_5F/files/plinio il vecchio.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
 | <font color="orange">Filosofia</font> |Shopenhauer|Belloni<br>1?/03/20|<a href='/Sito_Compiti_5F/files/Shopenhauer_01.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="red">Latino</font> |Persio|Condorelli<br>??/03/20|<a href='/Sito_Compiti_5F/files/978883953213_pers1.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'>|
-| <font color="purple">Inglese</font> |Lez.: The painter's studio<br>19/03/20|Viola|<a href='https://www.yotube.com/watch?v=IckoxHQmn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+| <font color="purple">Inglese</font> |Lez.: The painter's studio|Viola<br>19/03/20|<a href='https://www.yotube.com/watch?v=IckoxHQmn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
 
 
 [File pdf aquil](/files/aquil.pdf)
