@@ -16,5 +16,7 @@
 | <font color="red">Latino</font> |Plinio il Vecchio|Condorelli|<a href='/Sito_Compiti_5F/files/plinio il vecchio.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
 | <font color="orange">Filosofia</font> |Shopenhauer|Belloni|<a href='/Sito_Compiti_5F/files/Shopenhauer_01.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="red">Latino</font> |Condorelli|Persio|<a href='/Sito_Compiti_5F/files/978883953213_pers1.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'>|
+| <font color="purple">Inglese</font> |Viola|Lez.: The painter's studio<br>19/03/20|<a href='https://www.yotube.com/watch?v=IckoxHQmn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+
 
 [File pdf aquil](/files/aquil.pdf)
