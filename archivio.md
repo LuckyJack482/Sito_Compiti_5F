@@ -14,10 +14,10 @@
 | <font color="red">Italiano</font> |Lez. 12/03 - Pascoli|Condorelli<br>16/03|<a href='https://www.youtube.com/watch?v=YOj0jgvfPtA'><img alt='Youtube' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'/></a>|
 | <font color="red">Latino</font> |Int. 16/03 - Latino|Condorelli<br>16/03|<a href='https://www.youtube.com/watch?v=Uvj54f6Q7gk'><img alt='Youtube' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'/></a>|
 | <font color="purple">Arte</font> |L'arte al tempo del coronavirus|Ciaccia<br>16/03|<a href='/Sito_Compiti_5F/files/larte_al_tempo_del_coronavirus.mp4'><img alt='Video' width='40 px' src='/Sito_Compiti_5F/resources/vlc.png'/></a>|
-| <font color="red">Latino</font> |Plinio il Vecchio|Condorelli|<a href='/Sito_Compiti_5F/files/plinio il vecchio.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
+| <font color="red">Latino</font> |Plinio il Vecchio|Condorelli<br>1?/03/20|<a href='/Sito_Compiti_5F/files/plinio il vecchio.docx'><img alt='docx' width='40 px' src='/Sito_Compiti_5F/resources/docx.png'/>|
 | <font color="orange">Filosofia</font> |Shopenhauer|Belloni<br>1?/03/20|<a href='/Sito_Compiti_5F/files/Shopenhauer_01.pptx'><img alt='pptx' width='40 px' src='/Sito_Compiti_5F/resources/pptx.png'/>|
 | <font color="red">Latino</font> |Persio|Condorelli<br>??/03/20|<a href='/Sito_Compiti_5F/files/978883953213_pers1.pdf'><img alt='pdf' width='40 px' src='/Sito_Compiti_5F/resources/pdf.png'>|
-| <font color="purple">Inglese</font> |Lez.: The painter's studio|Viola<br>19/03/20|<a href='https://www.yotube.com/watch?v=IckoxHQmn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
+| <font color="purple">Inglese</font> |Lez.: The painter's studio|Viola<br>19/03/20|<a href='https://www.youtube.com/watch?v=IckoxHQmn0'><img alt='yt' width='40 px' src='/Sito_Compiti_5F/resources/yt.png'>|
 
 
 [File pdf aquil](/files/aquil.pdf)
