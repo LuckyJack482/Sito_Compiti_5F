@@ -31,3 +31,5 @@ while num > 0:
 for x in frasi:
     print(x)
     print()
+
+goodbye = input("Qualunque tasto ti manderà all'inferno")
