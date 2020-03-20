@@ -1,5 +1,5 @@
 # Archivio ditattico
-[**Disclaimer!**](disclaimer_archivio)
+<u>[**Disclaimer!**](disclaimer_archivio)</u>
 
 | Materia      | Titolo | Autore<br>Data| File |
 | :---        |    :----:   |          :----: |  ---:|
