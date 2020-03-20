@@ -1,6 +1,6 @@
 # Archivio ditattico
 
-[Disclaimer!](disclaimer_archivio)
+[Disclaimer!🔗](disclaimer_archivio)
 
 | Materia      | Titolo | Autore<br>Data| File |
 | :---        |    :----:   |          :----: |  ---:|

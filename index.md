@@ -17,5 +17,5 @@ Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo
 <a href='https://classroom.google.com/u/0/c/NTM5Njk1OTY5ODFa'><img alt='Viola' width='96 px' src='/Sito_Compiti_5F/resources/viola.png'/>
 <a href='https://new.edmodo.com/groups/5f-mat-e-fi-liceobattaglini-20192020-31274782'><img alt='Lo Savio' width='96 px' src='https://api.edmodo.com/users/144023444/avatar?t=1584136740&type=large&u=78cx7drk8di3sbz5afdqqyqr6'></a>
 
-## **[Archivio didattico](archivio)**
+## **[Archivio didattico🔗](archivio)**
 Hey, vedi che, se non te ne fossi accorto, puoi cliccare sul titolo... è un link. Umile, ma è pur sempre un collegamento.
