@@ -14,5 +14,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
   - index.md
   - archivio.md
-
+  - orario.md
+  
 theme: jekyll-theme-minimal
