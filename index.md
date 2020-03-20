@@ -1,7 +1,7 @@
 # Cosa è questo sito?
 Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo Scientifico "G. Battaglini", una sorta di compendio di risorse.
 
-[![Orario lezioni](/resources/calendar.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx4TpNnCrB5HV89TslpxWK2SEVIUgKUVp-o85nHIcOVhCWFSmvZRBLomRlO3LEtEl0P1XuH5JS_K5r/pubhtml)
+[![Orario lezioni](/resources/calendar.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx4TpNnCrB5HV89TslpxWK2SEVIUgKUVp-o85nHIcOVhCWFSmvZRBLomRlO3LEtEl0P1XuH5JS_K5r/pubhtml?gid=1322041363&single=true)
 
 
 [![argo_logo](http://www.battaglini.edu.it/images/stories/argonext_genitori.jpg)](http://www.ss16799.scuolanext.info/)
