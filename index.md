@@ -4,9 +4,10 @@ Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo
 [![Orario lezioni](/resources/calendar_128px.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx4TpNnCrB5HV89TslpxWK2SEVIUgKUVp-o85nHIcOVhCWFSmvZRBLomRlO3LEtEl0P1XuH5JS_K5r/pubhtml?gid=1322041363&single=true)
 
 [![argo_logo](/resources/argonext_genitori.jpg)](http://www.ss16799.scuolanext.info/)
+[![Bacheca](/resources/checklist.png)](bacheca)
 ## Quick links Webex <img alt='Webex' width='25 px' src='https://lh3.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX'>
 <a href='https://battaglinicv19.webex.com/meet/macciu2'><img alt='Condorelli' width='96 px' src='/Sito_Compiti_5F/resources/condorelli.png'>
-<a href='https://battaglinicv19.webex.com/join/bellonidaniela2016'><img alt='Belloni' width='96 px' src='/Sito_Compiti_5F/resources/belloni.png'>
+<a href='https://battaglinicv19.webex.com/meet/bellonidaniela2016'><img alt='Belloni' width='96 px' src='/Sito_Compiti_5F/resources/belloni.png'>
 <a href='https://battaglinicv19.webex.com/meet/arch.ciaccia'><img alt='Ciaccia' width='96 px' src='/Sito_Compiti_5F/resources/ciaccia.png'/>
 <a href='https://battaglinicv19.webex.com/meet/cinziacf.14'><img alt='Viola' width='96 px' src='/Sito_Compiti_5F/resources/viola.png'/>
 <a href='https://battaglinicv19.webex.com/meet/maria.rochira'><img alt='Rochira' width='96 px' src='/Sito_Compiti_5F/resources/rochira.png'/></a>
