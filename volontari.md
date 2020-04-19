@@ -11,7 +11,7 @@ Per aggiornamenti non esitate a conttatarmi
 ## Lunedì 20
 
 - <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="springgreen">(3/3) [100%]</font>
-- <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A. <font color="orange">(5/4) [125%]</font>
+- <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A., Mariachiara <font color="orange">(5/4) [125%]</font>
 
 ## Martedì 21
 
