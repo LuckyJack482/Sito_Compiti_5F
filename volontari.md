@@ -10,7 +10,7 @@ Per aggiornamenti non esitate a conttatarmi
 
 ## Lunedì 20
 
-- <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="green">(3/3) [100%]</font>
+- <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="springgreen">(3/3) [100%]</font>
 - <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A. <font color="orange">(5/4) [125%]</font>
 
 ## Martedì 21
@@ -20,7 +20,7 @@ Per aggiornamenti non esitate a conttatarmi
 
 ## Mercoledì 22
 
-- <font color="brown">Storia</font> Giovanni, Guarini A., Francesco <font color="green">(3/3) [100%]</font>
+- <font color="brown">Storia</font> Giovanni, Guarini A., Francesco <font color="springgreen">(3/3) [100%]</font>
 - <font color="purple">Inglese</font> Roberta, Marta, Ludovica M., Chiara, Leonardo, Giorgia <font color="red">(6/12) [50%]</font>
 - <font color="red">Italiano</font> ~~Camilla~~**?**, Vita, Ressa <font color="red">(2/3) [66%]</font>
 
@@ -34,7 +34,7 @@ Per aggiornamenti non esitate a conttatarmi
 
 ## Venerdì 24
 
-- <font color="red">Italiano</font> Martina, Antonio, Giulio <font color="green">(3/3) [100%]</font>
+- <font color="red">Italiano</font> Martina, Antonio, Giulio <font color="springgreen">(3/3) [100%]</font>
 - <font color="blue">Fisica</font> ~~Marta~~**?**, ~~Roberta~~**?**, Giorgia, Chiara <font color="red">(1/4) [50%]</font>
 
 ## Sabato 25
