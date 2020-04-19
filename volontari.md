@@ -5,7 +5,7 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a conttatarmi
 
 ---
-### 🕒 Ultimo aggiornamento: 19 aprile 1920, CET+1 1738 🕒
+### 🕒 Ultimo aggiornamento: 19 aprile 1920, CET+1 17:52 🕒
 
 
 ## Lunedì 20
