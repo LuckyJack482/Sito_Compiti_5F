@@ -3,9 +3,9 @@ Questo sito è un sito dedicato a poche persone fidate della classe 5F del Liceo
 
 [![Orario lezioni](/resources/calendar_128px.png)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx4TpNnCrB5HV89TslpxWK2SEVIUgKUVp-o85nHIcOVhCWFSmvZRBLomRlO3LEtEl0P1XuH5JS_K5r/pubhtml?gid=1322041363&single=true)
 [![Bacheca](/resources/checklist.png)](bacheca)
+[![volo](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/airplane_2708.png)](volontari)
 
 [![argo_logo](/resources/argonext_genitori.jpg)](http://www.ss16799.scuolanext.info/)
-[![volo](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/airplane_2708.png)](volontari)
 ## Quick links Webex <img alt='Webex' width='25 px' src='https://lh3.googleusercontent.com/_8joIrDlTdTZ1cKVVnMoQ9KG0i-A5LCZX8N3w0MmFljiIsV8T2jkcqhHWndrKs0ldGuX'>
 <a href='https://battaglinicv19.webex.com/meet/cosimalosavio'><img alt='Lo Savio' width='96 px' src='https://api.edmodo.com/users/144023444/avatar?t=1584136740&type=large&u=78cx7drk8di3sbz5afdqqyqr6'/>
 <a href='https://battaglinicv19.webex.com/meet/macciu2'><img alt='Condorelli' width='96 px' src='/Sito_Compiti_5F/resources/condorelli.png'>
