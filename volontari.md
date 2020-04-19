@@ -2,7 +2,7 @@
 
 L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli aerei volano, era l'idea più stupida che mi fosse venuta in mente ✈️
 
-Per aggiornamenti non esitate a conttatarmi
+Per aggiornamenti non esitate a [conttatarmi](whatsapp://send?text=+393926669204)
 
 ---
 ### 🕒 Ultimo aggiornamento: 19 aprile 1920, CET+1 17:52 🕒
