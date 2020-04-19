@@ -35,7 +35,7 @@ Per aggiornamenti non esitate a conttatarmi
 ## Venerdì 24
 
 - <font color="red">Italiano</font> Martina, Antonio, Giulio <font color="springgreen">(3/3) [100%]</font>
-- <font color="blue">Fisica</font> ~~Marta~~**?**, ~~Roberta~~**?**, Giorgia, Chiara <font color="red">(1/4) [50%]</font>
+- <font color="blue">Fisica</font> ~~Marta~~**?**, ~~Roberta~~**?**, Giorgia, Chiara <font color="red">(2/4) [50%]</font>
 
 ## Sabato 25
 
