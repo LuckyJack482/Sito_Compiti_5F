@@ -5,7 +5,7 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?text=Giacomo%20devi%20aggiustare%20questo%3A%0D%0A)
 
 ---
-### 🕒 Ultimo aggiornamento: 20 aprile 1920, CET+1 16:09 🕒
+### 🕒 Ultimo aggiornamento: 20 aprile 1920, CET+1 20:32 🕒
 
 
 ## Martedì 21
@@ -30,7 +30,7 @@ Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?te
 ## Venerdì 24
 
 - <font color="red">Italiano</font> Martina, Antonio, Giulio <font color="springgreen">(3/3) [100%]</font>
-- <font color="blue">Fisica</font> Marta, Roberta, Giorgia, Chiara, Teresa, Muscio A. <font color="fuchsia">(6/4) [150%]</font>
+- <font color="blue">Fisica</font> Marta, Giorgia, Chiara, Teresa, Muscio A., Leonardo, Mariachiara <font color="fuchsia">(7/4) [175%]</font>
 
 ## Sabato 25
 
