@@ -5,13 +5,8 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?text=Giacomo%20devi%20aggiustare%20questo%3A%0D%0A)
 
 ---
-### 🕒 Ultimo aggiornamento: 20 aprile 1920, CET+1 11:00 🕒
+### 🕒 Ultimo aggiornamento: 20 aprile 1920, CET+1 16:09 🕒
 
-
-## Lunedì 20
-
-- <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="springgreen">(3/3) [100%]</font>
-- <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A., Mariachiara <font color="fuchsia">(5/4) [125%]</font>
 
 ## Martedì 21
 
@@ -41,3 +36,11 @@ Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?te
 
 - <font color="brown">Storia</font> ... <font color="red">(0/3) [0%]</font>
 - <font color="blue">Matematica</font> ... <font color="red">(0/4) [0%]</font>
+
+---
+Passato (prossimo), perfetto, +képerfetto, ecc ecc...
+
+## Lunedì 20
+
+- <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="springgreen">(3/3) [100%]</font>
+- <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A., Mariachiara <font color="fuchsia">(5/4) [125%]</font>
