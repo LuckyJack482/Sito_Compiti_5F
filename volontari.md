@@ -5,19 +5,14 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?text=Giacomo%20devi%20aggiustare%20questo%3A%0D%0A)
 
 ---
-### 🕒 Ultimo aggiornamento: 20 aprile 1920, CET+1 20:32 🕒
+### 🕒 Ultimo aggiornamento: 21 aprile 1920, CET+1 11:20 🕒
 
-
-## Martedì 21
-
-- <font color="red">Italiano</font> Francesca, Camilla, Chiara <font color="springgreen">(3/3) [100%]</font>
-- <font color="orange">Filosofia</font> Mario, Marcella <font color="red">(2/?) [?%]</font>
 
 ## Mercoledì 22
 
 - <font color="brown">Storia</font> Giovanni, Guarini A., Francesco <font color="springgreen">(3/3) [100%]</font>
 - <font color="purple">Inglese</font> Roberta, Marta, Ludovica M., Chiara, Leonardo, Giorgia, Antonio <font color="orange">(7/9) [77%]</font>
-- <font color="red">Italiano </font> Ressa <font color="red">(1/3) [33%]</font>
+- <font color="red">Latino </font> ... <font color="springgreen">(0/0) [100%]</font>
 
 ## Giovedì 23
 
@@ -44,3 +39,8 @@ Passato (prossimo), perfetto, +képerfetto, ecc ecc...
 
 - <font color="red">Italiano</font> Roberta, Leonardo, Lollo <font color="springgreen">(3/3) [100%]</font>
 - <font color="blue">Matematica</font> Mario, Vita, Ludovica M., Muscio A., Mariachiara <font color="fuchsia">(5/4) [125%]</font>
+
+## Martedì 21
+
+- <font color="red">Italiano</font> Francesca, Camilla, Chiara <font color="springgreen">(3/3) [100%]</font>
+- <font color="orange">Filosofia</font> Mario, Marcella <font color="red">(2/?) [?%]</font>
