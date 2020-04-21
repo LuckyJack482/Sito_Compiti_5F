@@ -5,18 +5,18 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?text=Giacomo%20devi%20aggiustare%20questo%3A%0D%0A)
 
 ---
-### 🕒 Ultimo aggiornamento: 21 aprile 1920, CET+1 11:20 🕒
+### 🕒 Ultimo aggiornamento: 21 aprile 1920, CET+1 16:55 🕒
 
 
 ## Mercoledì 22
 
 - <font color="brown">Storia</font> Giovanni, Guarini A., Francesco <font color="springgreen">(3/3) [100%]</font>
-- <font color="purple">Inglese</font> Roberta, Marta, Ludovica M., Chiara, Leonardo, Giorgia, Antonio <font color="orange">(7/9) [77%]</font>
+- <font color="purple">Inglese</font> Roberta, Marta, Ludovica M., Chiara, Leonardo, Giorgia, Antonio, Vitamaria, Lorenzo <font color="springgreen">(9/9) [100%]</font>
 - <font color="red">Latino </font> ... <font color="springgreen">(0/0) [100%]</font>
 
 ## Giovedì 23
 
-- <font color="red">Italiano</font> Palazzo A., Ludovica P. <font color="orange">(2/3) [66%]</font>
+- <font color="red">Italiano</font> Palazzo A., Ludovica P., Ressa <font color="springgreen">(3/3) [66%]</font>
 - <font color="purple">Inglese</font> Guarini A. <font color="red">(1/9) [11%]</font>
 - <font color="green">Scienze</font> Vita <font color="red">(1/3) [33%]</font>
 - <font color="blue">Matematica</font> Martina <font color="red">(1/4) [25%]</font>
@@ -29,6 +29,7 @@ Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?te
 
 ## Sabato 25
 
+- <font color="red">Scienze</font> Vita <font color="red">(0/3) [0%]</font>
 - <font color="brown">Storia</font> ... <font color="red">(0/3) [0%]</font>
 - <font color="blue">Matematica</font> ... <font color="red">(0/4) [0%]</font>
 
