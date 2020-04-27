@@ -5,27 +5,44 @@ L'aereoplano come icona sta a significare "Volontari", da "volo", e siccome gli 
 Per aggiornamenti non esitate a [contattarmi 🔗](https://wa.me/393926669204?text=Giacomo%20devi%20aggiustare%20questo%3A%0D%0A)
 
 ---
-### 🕒 Ultimo aggiornamento: 23 aprile 1920, CET+1 10:40 🕒
+### 🕒 Ultimo aggiornamento: 27 aprile 1920, CET+1 22:50 🕒
 
+## Lunedì 27
 
-## Giovedì 23
+- <font color="red">Italiano</font> Mario, Teresa <font color="orange">(2/3) [66%]</font>
+- <font color="blue">Matematica</font> ?? <font color="fuchsia">(?/4) [?%]</font>
 
-- <font color="red">Italiano</font> Palazzo A., Marta, Ressa <font color="springgreen">(3/3) [100%]</font>
-- <font color="purple">Inglese</font> Guarini A. <font color="red">(1/9) [11%]</font>
-- <font color="green">Scienze</font> Vita, Giacomo <font color="orange">(2/3) [66%]</font>
-- <font color="blue">Matematica</font> Martina <font color="red">(1/4) [25%]</font>
+## Martedì 28
 
+- <font color="red">Italiano</font> ... <font color="red">(0/3) [0%]</font>
+- <font color="orange">Filosofia</font> Roberta <font color="red">(1/?) [?%]</font>
 
-## Venerdì 24
+## Mercoledì 29
 
-- <font color="red">Italiano</font> Martina, Antonio, Giulio <font color="springgreen">(3/3) [100%]</font>
-- <font color="blue">Fisica</font> Marta, Giorgia, Chiara, Teresa, Muscio A., Mariachiara <font color="fuchsia">(6/4) [150%]</font>
-
-## Sabato 25
-
-- <font color="red">Scienze</font> Vita <font color="red">(0/3) [0%]</font>
 - <font color="brown">Storia</font> ... <font color="red">(0/3) [0%]</font>
+- <font color="purple">Inglese</font> Del Vecchio, De Michele, Braga, Muscio, Fortunato <font color="springgreen">(5/5) [100%]</font>
+- <font color="red">Latino </font> ... <font color="springgreen">(0/0) [100%]</font>
+
+## Giovedì 30
+
+- <font color="red">Italiano</font> ... <font color="red">(0/3) [0%]</font>
+- <font color="purple">Inglese</font> ... <font color="springgreen">(0/0) [100%]</font>
+- <font color="green">Scienze</font> Vita, Giacomo <font color="orange">(2/3) [66%]</font>
 - <font color="blue">Matematica</font> ... <font color="red">(0/4) [0%]</font>
+
+
+## Venerdì 1
+
+FESTA!🎉
+- <font color="red">Italiano</font> ... <font color="springgreen">(0/0) [100%]</font>
+- <font color="blue">Fisica</font> ... <font color="springgreen">(0/0) [100%]</font>
+
+## Sabato 2
+
+FESTA!🎉
+- <font color="red">Scienze</font> ... <font color="springgreen">(0/0) [100%]</font>
+- <font color="brown">Storia</font> ... <font color="springgreen">(0/0) [100%]</font>
+- <font color="blue">Matematica</font> ... <font color="springgreen">(0/0) [100%]</font>
 
 ---
 Passato (prossimo), perfetto, +képerfetto, ecc ecc...
